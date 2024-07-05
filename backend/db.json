@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Phumudzo Givens",
+      "email": "tshivhulas.p3@gmail.com",
+      "phone": "076 8897 153"
+    },
+    {
+      "id": 2, 
+      "name": "shaun seekers",
+      "email": "shaun.p3@gmail.com",
+      "phone": "098 7567 843"
+    },
+    {
+      "name": "airbnb ",
+      "time": "phumudzo",
+      "id": 3
+    },
+    {
+      "email": "livh@gmail.com",
+      "password": "$2a$10$6karcjOXyqlm6h8pmvMTnufKgMoGh9drUUXcmm66M9LMGprqtgUju",
+      "id": 4
+    }
+  ],
+ "listings": [
+    {
+      "id": 2,
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/91/ab/ba/ext-photo.jpg?w=600&h=-1&s=1",
+      " title":"bedroom suit",
+      " description":"beadroom",
+      "bath_num": 4,
+      "beb_num": 5,
+      "zip": 2343356,
+      "address": "thohoyandou",
+      "city": "unit d",
+      "price": 5000,
+      "sq_ft": 4.5,
+      "email": "tshivhulas@gmail.com",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "img": "https://image-prod.iol.co.za/16x9/800/Hidden-Haven-Villa-in-Cape-Town-Western-Cape-is-an-Airbnb-that-offers-breathtaking-views-over-Hout-Bay-beach?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/e749a54f-0940-53ee-8e31-3de4395e4fde&operation=CROP&offset=0x108&resize=2048x1152",
+      " title":"bedroom suit",
+      " description":"beadroom",
+      "bath_num": 4,
+      "beb_num": 5,
+      "zip": 2343356,
+      "address": "thohoyandou",
+      "city": "unit d",
+      "price": 5000,
+      "sq_ft": 4.5,
+      "email": "tshivhulas@gmail.com",
+      "userId": 2
+    },
+    {
+      
+      "id": 1,
+      "img": "https://media.istockphoto.com/id/1227329047/photo/two-ampty-chairs-facing-magnificent-sunset-view-at-beach.jpg?s=612x612&w=0&k=20&c=z7HngBDSmIyrvduaiz5F9bVd9fblyRWb8AKe3pf09fY=",
+       " title":"bedroom suit",
+       " description":"beadroom",
+      "bath_num": 3,
+      "beb_num": 4,
+      "zip": 23456,
+      "address": "thohoy",
+      "city": "unit c",
+      "price": 2000,
+      "sq_ft": 4.2,
+      "email": "tshivhulas.p3@gmail.com",
+      "userId": 3
+    }
+    
+  ]
+}
